@@ -1,7 +1,8 @@
 Hi I am Jdmone24. I work heavily with automation and never stopped since taking my first programming courses at College. Although in my current role I mainly live within
-a Powershell Studio (still automating - don't worry), I love to stay ontop of my programming skills on the side with fun side projects that often times end up
-benefiting me in the real world. My programming classes in college translated very well into the real world as getting a taste for automating tasks and projects carried right into
-my professional career. 
+a Powershell Studio. I love to stay ontop of my programming skills on the side with fun side projects that often times end up
+benefiting me in the real world. Right now I mainly do my projects in Python but I'm not stranger to working with C#, and Java. Most of my recent projects involve
+pulling data from various sources and analyzing them using several packages such as Textblog to scan for meaningful data that can be used for very targetted data analysis.
+
 
 I finally decided to create a Github for myself to showcase some of the projects I have worked on in the past (if I can still find the code) and projects I am pursuing still.
 
